@@ -10,15 +10,16 @@ Date of Creation: January 13, 2025
 
 ## Authors
 
-**Andrés Inzunza, MD**¹  ²  
+**Andrés Inzunza, MD**¹²  
 **Edgar Alejandro Moreno-Diaz, MD**³  
-**Deborah Goss, MLS, MA**⁵  
-**David Friedman, MD, MPH, PhD**¹  ²  
+**Deborah Goss, MLS, MA**⁴  
+**David Friedman, MD, MPH, PhD**¹²  
 
 ¹ Harvard Medical School, Boston, MA  
 ² Department of Ophthalmology, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA  
 ³ Escuela de Medicina, Tecnológico de Monterrey, Guadalajara, Mexico  
-⁵ Howe Library, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA  
+⁴ Howe Library, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA  
+
 
 ---
 
