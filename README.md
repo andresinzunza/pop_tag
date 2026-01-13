@@ -1,3 +1,5 @@
+README Date of Creation: January 13, 2025
+
 # POP TAG
 **Perimetric Outcomes of Melbourne Rapid Field Perimetry in Patients with Glaucoma: A Systematic Review and Meta-Analysis**
 
@@ -37,4 +39,30 @@ GIT-HUB INCLUDES:
 
 **Conclusion:** MRF had shorter test durations, high global agreement with HVF, excellent repeatability, and a bias toward less negative global results. MRF showed greater pointwise variability at certain thresholds and worse reliability measures. Despite these differences, MRF returned diagnostic information comparable to HFA.
 
-README Date of Creation: January 13, 2025
+![image_1](tables_and_figures/table_1.jpeg)
+
+![image_2](tables_and_figures/testing_time.jpeg)
+
+![image_3](tables_and_figures/mean_diff_md.jpeg)
+
+![image_4](tables_and_figures/mean_diff_psd.jpeg)
+
+![image_5](tables_and_figures/r_squ_md.jpeg)
+
+![image_6](tables_and_figures/conc_md.jpeg)
+
+![image_7](tables_and_figures/test_retest_md.jpeg)
+
+![image_8](tables_and_figures/auc_roc.jpeg)
+
+![image_9](tables_and_figures/zonal_test_retest_icc.jpeg)
+
+![image_10](tables_and_figures/zonal_conc_icc.jpeg)
+
+![image_11](tables_and_figures/fix_loss.jpeg)
+
+![image_12](tables_and_figures/false_pos.jpeg)
+
+![image_13](tables_and_figures/false_neg.jpeg)
+
+
