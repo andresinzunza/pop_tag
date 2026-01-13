@@ -47,6 +47,8 @@ _Contact: andres_inzunza@hms.harvard.edu · dr.andresinzunza@gmail.com_
 
 ## Tables and Figures
 
+![prisma](tables_and_figures/prisma.png)
+
 ![image_1](tables_and_figures/table_1.jpeg)
 
 ![image_2](tables_and_figures/testing_time.jpeg)
