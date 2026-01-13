@@ -10,10 +10,10 @@ Date of Creation: January 13, 2025
 
 ## Authors
 
-**Andrés Inzunza, MD**¹²  
+**Andrés Inzunza, MD**¹,²  
 **Edgar Alejandro Moreno-Diaz, MD**³  
 **Deborah Goss, MLS, MA**⁵  
-**David Friedman, MD, MPH, PhD**¹²  
+**David Friedman, MD, MPH, PhD**¹,²  
 
 ¹ Harvard Medical School, Boston, MA  
 ² Department of Ophthalmology, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA  
@@ -29,6 +29,7 @@ This GitHub repository includes:
 **1. Protocol** | **2. PROSPERO Registration** | **3. Search Strategy** |  
 **4. Database (CSV)** | **5. STATA Code for Analysis** | **6. Tables and Figures**
 
+**Contact:** andres_inzunza@hms.harvard.edu or dr.andresinzunza@gmail.com
 ---
 
 ## Abstract
