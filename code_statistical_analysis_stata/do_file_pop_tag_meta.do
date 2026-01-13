@@ -12,7 +12,7 @@
 
 //Last Dataset Update: 26, NOV, 2025 //
 
-//GitHub LINK: ------------------- //
+//[GitHub LINK](https://github.com/andresinzunza/pop_tag/tree/main) //
 
 
 //ANALYSIS 1//
