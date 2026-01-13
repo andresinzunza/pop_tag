@@ -1,6 +1,17 @@
 # POP TAG
 **Perimetric Outcomes of Melbourne Rapid Field Perimetry in Patients with Glaucoma: A Systematic Review and Meta-Analysis**
 
+**Authors:** Andrés Inzunza, MD1,2, Edgar Alejandro Moreno-Diaz, MD3, Deborah Goss, MLS, MA5, David Friedman, MD, MPH, PhD 1,2
+
+1- Harvard Medical School, Boston, MA
+
+2- Department of Ophthalmology, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA
+
+3- Escuela de Medicina, Tecnológico de Monterrey, Guadalajara, Mexico
+
+5- Howe Library, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA
+
+
 GIT-HUB INCLUDES:
 
 **1-Protocol**
@@ -14,16 +25,6 @@ GIT-HUB INCLUDES:
 **5-STATA Code for Analysis**
 
 **6-Figures**
-
-**Authors:** Andrés Inzunza, MD1,2, Edgar Alejandro Moreno-Diaz, MD3, Deborah Goss, MLS, MA5, David Friedman, MD, MPH, PhD 1,2
-
-1- Harvard Medical School, Boston, MA
-
-2- Department of Ophthalmology, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA
-
-3- Escuela de Medicina, Tecnológico de Monterrey, Guadalajara, Mexico
-
-5- Howe Library, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA
 
 
 **Abstract**
