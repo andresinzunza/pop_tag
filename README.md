@@ -46,31 +46,58 @@ _Contact: andres_inzunza@hms.harvard.edu · dr.andresinzunza@gmail.com_
 ---
 
 ## Tables and Figures
+<p align="center">
+  <img src="tables_and_figures/prisma.png" width="70%">
+</p>
 
-![prisma](tables_and_figures/prisma.png)
+<p align="center">
+  <img src="tables_and_figures/table_1.jpeg" width="70%">
+</p>
 
-![image_1](tables_and_figures/table_1.jpeg)
+<p align="center">
+  <img src="tables_and_figures/testing_time.jpeg" width="70%">
+</p>
 
-![image_2](tables_and_figures/testing_time.jpeg)
+<p align="center">
+  <img src="tables_and_figures/mean_diff_md.jpeg" width="70%">
+</p>
 
-![image_3](tables_and_figures/mean_diff_md.jpeg)
+<p align="center">
+  <img src="tables_and_figures/mean_diff_psd.jpeg" width="70%">
+</p>
 
-![image_4](tables_and_figures/mean_diff_psd.jpeg)
+<p align="center">
+  <img src="tables_and_figures/r_squ_md.jpeg" width="70%">
+</p>
 
-![image_5](tables_and_figures/r_squ_md.jpeg)
+<p align="center">
+  <img src="tables_and_figures/conc_md.jpeg" width="70%">
+</p>
 
-![image_6](tables_and_figures/conc_md.jpeg)
+<p align="center">
+  <img src="tables_and_figures/test_retest_md.jpeg" width="70%">
+</p>
 
-![image_7](tables_and_figures/test_retest_md.jpeg)
+<p align="center">
+  <img src="tables_and_figures/auc_roc.jpeg" width="70%">
+</p>
 
-![image_8](tables_and_figures/auc_roc.jpeg)
+<p align="center">
+  <img src="tables_and_figures/zonal_test_retest_icc.jpeg" width="70%">
+</p>
 
-![image_9](tables_and_figures/zonal_test_retest_icc.jpeg)
+<p align="center">
+  <img src="tables_and_figures/zonal_conc_icc.jpeg" width="70%">
+</p>
 
-![image_10](tables_and_figures/zonal_conc_icc.jpeg)
+<p align="center">
+  <img src="tables_and_figures/fix_loss.jpeg" width="70%">
+</p>
 
-![image_11](tables_and_figures/fix_loss.jpeg)
+<p align="center">
+  <img src="tables_and_figures/false_pos.jpeg" width="70%">
+</p>
 
-![image_12](tables_and_figures/false_pos.jpeg)
-
-![image_13](tables_and_figures/false_neg.jpeg)
+<p align="center">
+  <img src="tables_and_figures/false_neg.jpeg" width="70%">
+</p>
