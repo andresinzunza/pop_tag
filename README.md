@@ -5,13 +5,18 @@
 —Github includes:
 
 **1-Protocol**
+
 **2-PROSPERO Registration**
+
 **3-Search Strategy**
+
 **4-Database (csv)**
+
 **5-STATA Code for Analysis**
+
 **6-Figures**
 
-Authors: Andrés Inzunza, MD1,2, Edgar Alejandro Moreno-Diaz, MD3, Deborah Goss, MLS, MA5, Tobias Elze, PhD1,6, David Friedman, MD, MPH, PhD 1,2
+**Authors:** Andrés Inzunza, MD1,2, Edgar Alejandro Moreno-Diaz, MD3, Deborah Goss, MLS, MA5, Tobias Elze, PhD1,6, David Friedman, MD, MPH, PhD 1,2
 1- Harvard Medical School, Boston, MA
 
 2- Department of Ophthalmology, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA
