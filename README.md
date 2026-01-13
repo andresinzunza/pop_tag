@@ -39,6 +39,8 @@ GIT-HUB INCLUDES:
 
 **Conclusion:** MRF had shorter test durations, high global agreement with HVF, excellent repeatability, and a bias toward less negative global results. MRF showed greater pointwise variability at certain thresholds and worse reliability measures. Despite these differences, MRF returned diagnostic information comparable to HFA.
 
+**TABLES AND FIGURES**
+
 ![image_1](tables_and_figures/table_1.jpeg)
 
 ![image_2](tables_and_figures/testing_time.jpeg)
