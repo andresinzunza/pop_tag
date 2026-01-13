@@ -15,7 +15,7 @@ GIT-HUB INCLUDES
 
 **6-Figures**
 
-**Authors:** Andrés Inzunza, MD1,2, Edgar Alejandro Moreno-Diaz, MD3, Deborah Goss, MLS, MA5, Tobias Elze, PhD1,6, David Friedman, MD, MPH, PhD 1,2
+**Authors:** Andrés Inzunza, MD1,2, Edgar Alejandro Moreno-Diaz, MD3, Deborah Goss, MLS, MA5, David Friedman, MD, MPH, PhD 1,2
 1- Harvard Medical School, Boston, MA
 
 2- Department of Ophthalmology, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA
@@ -23,8 +23,6 @@ GIT-HUB INCLUDES
 3- Escuela de Medicina, Tecnológico de Monterrey, Guadalajara, Mexico
 
 5- Howe Library, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA
-
-6- Schepens Research Institute, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA
 
 
 **Abstract**
