@@ -16,18 +16,7 @@ README Date of Creation: January 13, 2025
 
 GIT-HUB INCLUDES:
 
-**1-Protocol**
-
-**2-PROSPERO Registration**
-
-**3-Search Strategy**
-
-**4-Database (csv)**
-
-**5-STATA Code for Analysis**
-
-**6-Figures**
-
+**1-Protocol** | **2-PROSPERO Registration**  | **3-Search Strategy** | **4-Database (csv)** |**5-STATA Code for Analysis** | **6-Figures**
 
 **Abstract**
 
