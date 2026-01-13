@@ -30,7 +30,7 @@ This GitHub repository includes:
 **1. Protocol** | **2. PROSPERO Registration** | **3. Search Strategy** |  
 **4. Database (CSV)** | **5. STATA Code for Analysis** | **6. Tables and Figures**
 
-**Contact:** andres_inzunza@hms.harvard.edu or dr.andresinzunza@gmail.com
+Contact: andres_inzunza@hms.harvard.edu or dr.andresinzunza@gmail.com
 ---
 
 ## Abstract
