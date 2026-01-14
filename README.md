@@ -28,7 +28,7 @@ Date of Creation: January 13, 2025
 This GitHub repository includes:
 
 **1. Protocol** | **2. PROSPERO Registration** | **3. Search Strategy** |  
-**4. Database (CSV)** | **5. STATA Code for Analysis** | **6. Tables and Figures**
+**4. Database (CSV)** | **5. STATA Code for Analysis** | **6. Tables and Figures** | **7. Risk of Bias**
 
 _Contact: andres_inzunza@hms.harvard.edu · dr.andresinzunza@gmail.com_
 ---
