@@ -101,3 +101,7 @@ _Contact: andres_inzunza@hms.harvard.edu · dr.andresinzunza@gmail.com_
 <p align="center">
   <img src="tables_and_figures/false_neg.jpeg" width="70%">
 </p>
+
+<p align="center">
+  <img src="risk_of_bias/quadas2_traffic_light.png" width="70%">
+</p>
