@@ -46,7 +46,9 @@ _Contact: andres_inzunza@hms.harvard.edu · dr.andresinzunza@gmail.com_
 ---
 
 ## Tables and Figures
-<img src="tables_and_figures/prisma.png" width="40%">
+<p align="center">
+  <img src="tables_and_figures/prisma.png" width="50%">
+</p>
 
 <p align="center">
   <img src="tables_and_figures/table_1.jpeg" width="70%">
